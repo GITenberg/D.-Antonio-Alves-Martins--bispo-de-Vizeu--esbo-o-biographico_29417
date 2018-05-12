@@ -22,6 +22,8 @@ creator:
     - http://pt.wikipedia.org/wiki/Camilo_Castelo_Branco
     - http://en.wikipedia.org/wiki/Camilo_Castelo_Branco
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29417#D.-Antonio-Alves-Martins--bispo-de-Vizeu--esbo-o-biographico
 edition_note: Segunda edição
 gutenberg_bookshelf: PT Biografia
 gutenberg_issued: '2009-07-15'
