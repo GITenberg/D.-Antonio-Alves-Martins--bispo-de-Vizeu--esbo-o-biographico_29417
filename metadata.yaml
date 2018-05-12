@@ -1,0 +1,48 @@
+_repo: D.-Antonio-Alves-Martins--bispo-de-Vizeu--esbo-o-biographico_29417
+_version: 0.1.0
+alternative_title: 'D. António Alves Martins: bispo de Viseu: esboço biográfico'
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Castelo Branco, Camilo
+    aliases:
+    - Corrêa Botelho, Camillo Ferreira Botelho Castello Branco, visconde de
+    - Branco, Camilo Ferreira Botelho Castelo
+    - Branco, Camilo Castelo
+    - Correa Botelho, Camillo Ferreira Botelho Castello Branco, visconde de
+    - Botelho Castelo Branco, Camilo Ferreira
+    - Correia Botelho, Camillo Castello Branco, visconde de
+    birthdate: 1825
+    deathdate: 1890
+    gutenberg_agent_id: '6699'
+    url: http://www.gutenberg.org/2009/agents/6699
+    wikipedia:
+    - http://pt.wikipedia.org/wiki/Camilo_Castelo_Branco
+    - http://en.wikipedia.org/wiki/Camilo_Castelo_Branco
+description: ''
+edition_note: Segunda edição
+gutenberg_bookshelf: PT Biografia
+gutenberg_issued: '2009-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29417'
+language: pt
+language_note:
+- "Este livro eletrónico usa a ortografia da edição em papel do século XIX. \r\nPara\
+  \ ajudar o Project Gutenberg a atualizar a ortografia desta obra, visite a página\
+  \ http://www.gutenberg.org/wiki/PT_Ortografia ."
+- This ebook uses 19th century spelling
+production_note: Produced by Pedro Saborano (produced from scanned images of public
+  domain material from Google Book Search)
+publication_note: "Porto:\r\nLivraria Internacional de Ernesto Chardron\r\nCasa editora\r\
+  \nLugan & Genelioux, successores\r\nImprensa Internacional Victoria, 166\r\n1889"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Alves Martins, António, 1808-1882'
+title: 'D. Antonio Alves Martins: bispo de Vizeu: esboço biographico'
+url: http://www.gutenberg.org/ebooks/29417
